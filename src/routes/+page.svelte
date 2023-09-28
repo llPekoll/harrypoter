@@ -75,6 +75,7 @@
 </script>
 
 <div>
+    <h1>This is a tittle</h1>
     <!-- Buttons to choose Harry Potter houses -->
     <button
         on:click={() => {
